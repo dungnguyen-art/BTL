@@ -1,0 +1,5 @@
+package qlns.service;
+
+public class EmployeeServiceImpl {
+
+}

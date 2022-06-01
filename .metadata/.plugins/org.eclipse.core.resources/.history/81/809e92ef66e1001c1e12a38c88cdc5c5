@@ -1,0 +1,5 @@
+package qlns.model;
+
+public class Employee {
+
+}
